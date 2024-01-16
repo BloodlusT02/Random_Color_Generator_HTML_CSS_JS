@@ -1,7 +1,5 @@
 # Random_Color_Generator_HTML_CSS_JS
 
-# Dynamic Background Color Changer
-
 This is a simple web page that allows you to generate random background colors and copy the corresponding hexadecimal color code.
 
 ## Features
